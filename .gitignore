@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.build_venv/
+build/
+dist/
+installer_output/
+*.spec
+monitor.db
+analytics_cache.json
+latest.json
+build_log.txt

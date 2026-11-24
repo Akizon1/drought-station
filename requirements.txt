@@ -1,0 +1,5 @@
+customtkinter>=5.2.2
+pyserial>=3.5
+matplotlib>=3.8
+requests>=2.31
+openpyxl>=3.1
